@@ -1,0 +1,78 @@
+Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Devesh Kumar Singhal\Downloads\FlaskCRUD-main\App.py", line 48, in Index
+    groceries = Data.query.order_by(Data.id).paginate(
+TypeError: paginate() takes 1 positional argument but 2 positional arguments (and 1 keyword-only argument) were given
+Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Devesh Kumar Singhal\Downloads\FlaskCRUD-main\App.py", line 48, in Index
+    groceries = Data.query.order_by(Data.id).paginate(
+TypeError: paginate() takes 1 positional argument but 2 positional arguments (and 1 keyword-only argument) were given
+Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Devesh Kumar Singhal\Downloads\FlaskCRUD-main\App.py", line 48, in Index
+    groceries = Data.query.order_by(Data.id).paginate(
+TypeError: paginate() takes 1 positional argument but 2 positional arguments (and 1 keyword-only argument) were given
+Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Devesh Kumar Singhal\Downloads\FlaskCRUD-main\App.py", line 50, in Index
+    groceries = Data.query.order_by(Data.id).paginate(
+TypeError: paginate() takes 1 positional argument but 2 positional arguments (and 1 keyword-only argument) were given
+Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Devesh Kumar Singhal\Downloads\FlaskCRUD-main\App.py", line 50, in Index
+    groceries = Data.query.order_by(Data.id).paginate(
+TypeError: paginate() takes 1 positional argument but 2 positional arguments (and 1 keyword-only argument) were given
+Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Devesh Kumar Singhal\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\Devesh Kumar Singhal\Downloads\FlaskCRUD-main\App.py", line 50, in Index
+    groceries = Data.query.order_by(Data.id).paginate(
+TypeError: paginate() takes 1 positional argument but 2 positional arguments (and 1 keyword-only argument) were given
